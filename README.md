@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm Horel!
+  Hey, I'm Horel !
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.lua.org/"> <img src="https://img.shields.io/badge/-Cpp-blue?&style=for-the-badge&logo=cplusplus&logoColor=white"/> </a>
+    <a href="https://www.cplusplus.com/"> <img src="https://img.shields.io/badge/-Cpp-blue?&style=for-the-badge&logo=cplusplus&logoColor=white"/> </a>
     <a href="https://www.lua.org/"> <img src="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a>
     <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a>
     <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a>
@@ -28,9 +28,9 @@
 - 😄 You may like [My Blog](https://graficc.github.io/)
 - ⚡ Fun fact: **Anime, Games**
 
+## life motto
 <img align="right" src="https://count.getloli.com/get/@:horel?theme=rule34">
 
-## life motto
 ```cpp
 if ( sad() == true ) {
     sad().stop();
@@ -43,6 +43,7 @@ if ( sad() == true ) {
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=horel&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horel&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+    <img src="https://octodex.github.com/images/stormtroopocat.png" width="150" height="150">
 </div>
 
 ## Github Activity
