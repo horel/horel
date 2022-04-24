@@ -18,6 +18,7 @@
 </p>
 
 ## Who am I ? <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img align="right" src="https://tva4.sinaimg.cn/large/008ieO5lly8h1itddxtf1j30e80e8gmp.jpg" width="200">
 
 - 🔭 I’m currently studying at **DLUT**
 - 🌱 I’m currently learning **Computer Graphics**
@@ -43,7 +44,6 @@ if ( sad() == true ) {
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=horel&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horel&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
-    <img src="https://octodex.github.com/images/stormtroopocat.png" width="150" height="150">
 </div>
 
 ## Github Activity
