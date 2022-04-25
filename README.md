@@ -29,7 +29,7 @@
 - 😄 You may like [My Blog](https://graficc.github.io/)
 - ⚡ Fun fact: **Anime, Games**
 
-## life motto
+## ✨Life Motto
 <img align="right" src="https://count.getloli.com/get/@:horel?theme=rule34">
 
 ```cpp
@@ -46,5 +46,5 @@ if ( sad() == true ) {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horel&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
-## Github Activity
+## 🎮Github Activity
 [![](https://activity-graph.herokuapp.com/graph?username=horel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
